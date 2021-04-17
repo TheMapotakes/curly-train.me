@@ -1,2 +1,1 @@
-# curly-train.me
-Welcome to CURLY TRAIN
+# Welcome to CURLY TRAIN
